@@ -6,3 +6,4 @@ pymupdf
 openai
 python-dotenv
 python-multipart
+google-generativeai
