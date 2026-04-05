@@ -1,1 +1,0 @@
-print("LLM RAG App")
